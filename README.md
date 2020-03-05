@@ -18,7 +18,7 @@ Suspected cases mapping
 About DiagnoseMe ?
 A remote self-diagnosis of symptoms and suspected cases mapping and notification.
 
- How to use ?
+# What is DiagnoseMe ?
 After a travel or presence on public place
 1. Clic on "DiagnoseMe";
 2. Enter your age, location and contact;
@@ -32,3 +32,6 @@ If the test results is nagative see preventions guide.
 Click here to .[test DiagnoseMe]. (https://urlz.fr/c08I)
 
 ou use this link : https://urlz.fr/c08I 
+
+
+# HOW TO DEPLOY ?
