@@ -27,3 +27,8 @@ After a travel or presence on public place
 If the test results is positive. Do not worry an ambulance will come and assist you for further examination.Stay home.
 If the test results is nagative see preventions guide.
 
+# DEMO PAGE
+
+Click here to test DiagnoseMe(https://urlz.fr/c08I)
+
+ou use this link : https://urlz.fr/c08I (https://urlz.fr/c08I)
