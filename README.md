@@ -28,7 +28,7 @@ If the test results is nagative see preventions guide.
 
 
 # PROJET PRESENTATION
-[Schematic Presentation!](http://DianoseMeshow.jpg)
+[Schematic Presentation](/DianoseMeshow.jpg)
 # TEAM COMPOSE
 
 
