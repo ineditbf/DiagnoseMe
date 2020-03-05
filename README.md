@@ -1,4 +1,7 @@
-﻿# DiagnoseMe (en)
+﻿
+# ABOUT PROJET
+
+# DiagnoseMe (en)
 Diagnosis and geolocation platform  in real time for suspected cases of COVID-19
 
 In order to reduce the risk of transmission of  on the way to the hospital and promote rapid management, our project will implement a mobile application for remote self-diagnosis of symptoms (thanks to connected objects) and suspected case mapping  so that a specialized ambulance can travel to the scene to remove the suspected patient.
@@ -22,8 +25,11 @@ After a travel or presence on public place
 If the test results is positive. Do not worry an ambulance will come and assist you for further examination.Stay home.
 If the test results is nagative see preventions guide.
 
+
+
+# PROJET PRESENTATION
+
 # TEAM COMPOSE
 
 
 
-# PROJET PRESENTATION
