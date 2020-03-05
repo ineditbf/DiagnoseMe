@@ -29,6 +29,6 @@ If the test results is nagative see preventions guide.
 
 # DEMO PAGE
 
-Click here to test DiagnoseMe(https://urlz.fr/c08I)
+Click here to .[test DiagnoseMe]. (https://urlz.fr/c08I)
 
-ou use this link : https://urlz.fr/c08I (https://urlz.fr/c08I)
+ou use this link : https://urlz.fr/c08I 
