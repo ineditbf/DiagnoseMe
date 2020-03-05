@@ -20,7 +20,7 @@ A remote self-diagnosis of symptoms and suspected cases mapping and notification
 
 # What is DiagnoseMe ?
 After a travel or presence on public place
-1. Clic on "DiagnoseMe";
+1. Click on "DiagnoseMe";
 2. Enter your age, location and contact;
 3. Follow the different tests requested with phone and captors;
 4. Get your results.
