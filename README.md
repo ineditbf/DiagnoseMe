@@ -24,6 +24,6 @@ If the test results is nagative see preventions guide.
 
 # TEAM COMPOSE
 
- ,
 
-# HOW TO DEPLOY ?
+
+# PROJET PRESENTATION
