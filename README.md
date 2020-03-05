@@ -30,7 +30,10 @@ If the test results is nagative see preventions guide.
 # PROJET PRESENTATION
 ![Schematic Presentation](logo.jpg)
 Format: ![Alt Text](url)
+Please see logo.jpg below
 # TEAM COMPOSE
+Please see powerpoint and video file below
+
 
 
 
